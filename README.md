@@ -1,4 +1,4 @@
-## Data Carpentry @ National Society of Black Engineering Development Conference
+## Data Carpentry @ National Society of Black Engineering Professional Development Conference
 
 Thursday, September 28, 2017
 
