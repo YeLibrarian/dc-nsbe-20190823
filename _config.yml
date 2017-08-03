@@ -1,12 +1,12 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/datacarpentry/workshop-template"
-workshop_site   : "http://datacarpentry.github.io/workshop-template"
+workshop_repo   : "http://github.com/ChristinaLK/2017-09-28-nsbe"
+workshop_site   : "http://datacarpentry.github.io/2017-09-28-nsbe"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
-dc_blog        : "http://datacarpentry.github.io/blog"
+dc_blog        : "http://www.datacarpentry.org/blog/"
 dc_contact     : "admin@datacarpentry.org"
 dc_github      : "http://github.com/datacarpentry"
 swc_installer   : "http://files.software-carpentry.org/SWCarpentryInstaller.exe"
