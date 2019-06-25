@@ -1,7 +1,7 @@
 ## Data Carpentry @ National Society of Black Engineering Professional Development Conference
 
-Thursday, September 28, 2017
+Friday, August 23, 2019
 
-Sheraton Grand Hotel, Chicago
+San Diego Marriott Mission Valley, San Diego, CA
 
-[Workshop website](https://christinalk.github.io/2017-09-28-nsbe/)
+[Workshop website](https://YeLibrarian.github.io/dc-nsbe-20190823/)
