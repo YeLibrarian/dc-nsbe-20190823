@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/ChristinaLK/2017-09-28-nsbe"
-workshop_site   : "http://datacarpentry.github.io/2017-09-28-nsbe"
+workshop_repo   : "https://github.com/YeLibrarian/dc-nsbe-20190823"
+workshop_site   : "https://YeLibrarian.github.io/dc-nsbe-20190823"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
